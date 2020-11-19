@@ -1,0 +1,3 @@
+﻿  Skleika C-style.cpp
+C:\Users\Даня\source\repos\Skleika C-style\Skleika C-style\Skleika C-style.cpp(19,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Skleika C-style.vcxproj -> C:\Users\Даня\source\repos\Skleika C-style\Debug\Skleika C-style.exe
