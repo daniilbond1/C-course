@@ -12,3 +12,6 @@
 *.ipch
 /Debug
 /.vs
+*.vcxproj
+*.filters
+*.user
