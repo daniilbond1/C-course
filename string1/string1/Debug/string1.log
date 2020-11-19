@@ -1,3 +1,0 @@
-﻿  string1.cpp
-C:\Users\Даня\source\repos\string1\string1\string1.cpp(10,15): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Даня\source\repos\string1\string1\string1.cpp(18,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"

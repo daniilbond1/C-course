@@ -1,4 +1,0 @@
-﻿  ConsoleApplication3.cpp
-C:\Users\Даня\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(8,26): warning C4018: <=: несоответствие типов со знаком и без знака
-C:\Users\Даня\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(8,26): warning C4552: "<=": результат выражения не используется
-  ConsoleApplication3.vcxproj -> C:\Users\Даня\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe

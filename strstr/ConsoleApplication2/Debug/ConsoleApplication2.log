@@ -1,5 +1,0 @@
-﻿  ConsoleApplication2.cpp
-C:\Users\Даня\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4,51): error C2556: int strstr(const char *,const char *): перегруженная функция отличается от "const char *strstr(const char *,const char *)" только возвращаемым типом
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vcruntime_string.h(82): message : см. объявление "strstr"
-C:\Users\Даня\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4,5): error C2040: strstr: "int (const char *,const char *)" отличается по уровням косвенного обращения от "const char *(const char *,const char *)"
-C:\Users\Даня\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(60,31): error C2264: strstr: ошибка в определении или объявлении функции; функция не вызвана
