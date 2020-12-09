@@ -3,15 +3,16 @@ using namespace std;
 
 
 void rec() {
-    int a =0;
-        cin >> a;
-    if (a == 0) {
+    int input =0;
+        cin >> input;
+    if (input == 0) {
         return;
     }
     rec();
-    cout << a << ' ';
+    cout << input << ' ';
 }
-        int main() {
+        
+int main() {
 
         rec();
 
